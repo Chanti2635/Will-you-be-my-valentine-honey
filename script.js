@@ -9,8 +9,6 @@ const messages = [
     "Estare en serio en serio en serio muy triste amor...",
     "Bien, dejare de preguntar...",
     "Pura bromita y dramita amor, di que si pls! 💓💓💓"
-    "Pero shi quieres cari?"
-    "Vo a llorar mi vida😭😭"
 ];
 
 let messageIndex = 0;

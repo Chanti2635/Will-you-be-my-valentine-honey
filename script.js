@@ -4,11 +4,11 @@ const messages = [
     "En serio amor?",
     "Mi niña por favor...",
     "Piensalo pls cariño mio",
-    "Si me dices que no, estare triste corazón...",
+    "Si me dices que no estare triste corazon...",
     "Estare muy triste...",
     "Estare en serio en serio en serio muy triste amor...",
     "Bien, dejare de preguntar...",
-    "Pura bromita y dramita amor, di que si pls! 💓💓"
+    "Pura bromita y dramita amor, di que si pls! ❤️"
 ];
 
 let messageIndex = 0;
